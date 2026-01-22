@@ -1,2 +1,2 @@
-# CS446-NaanBinary
+# NaanBinary
 CS446 Android Project
